@@ -67,4 +67,6 @@ SELECT * FROM "Employees";
 SELECT * FROM "Salaries";
 SELECT * FROM "Titles";
 
+----
+
 
